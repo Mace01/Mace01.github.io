@@ -1,0 +1,15 @@
+body{
+	background: url(globe.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover
+	font: normal small-caps normal 17px/1.5 Arial;
+	background-color:white;
+	color: white;
+	background-size: cover; 
+
+}
+#div2{
+	background: rgba(0,0,225,0.4);
+}

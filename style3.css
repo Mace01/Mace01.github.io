@@ -1,0 +1,30 @@
+body{
+	background: url(light.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover
+
+}
+li{
+	color:purple;
+	cursor:;
+}
+
+li{
+	font: normal small-caps normal 17px/1.5 Arial;
+	list-style:none;
+	color: solid red;
+	cursor: pointer;  
+
+}
+#div1{
+	background: rgba(20,15,225,0.2);
+}
+	
+	img {
+		transition:all 1s;
+	}
+	img:hover {
+		transform:scale(1.1);
+	}

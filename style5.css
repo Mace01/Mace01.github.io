@@ -1,0 +1,20 @@
+
+.title{
+	color: white
+}
+h1{
+	color: black;
+}
+p{
+	color:purple;
+
+font: normal  normal  14px/1.4 Arial;
+	color:black;
+	cursor: pointer; 
+	font-family:Georgia
+	font weight:bold; 
+	font-style: initial;
+
+}
+#div1{
+	background: rgba(10,20,225,0.4);

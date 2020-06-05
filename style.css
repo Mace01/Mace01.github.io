@@ -1,0 +1,34 @@
+/*selector{
+	property:value;
+}*/
+body{
+	background: url(mac.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover
+
+}
+
+h1{
+	color:red;
+	text-align: center;
+	border-bottom: :4px;
+	cursor: pointer;
+	box-shadow:4px 4px 5px #999999;
+}
+p{
+	color:white;
+
+}
+li{
+	font: normal small-caps normal 15px/1.5 Arial;
+	list-style:none;
+	color:white;
+	cursor: pointer; 
+	font-family: "Arial",Georgia 
+
+}
+#div1{
+	background: rgba(0,0,225,0.4);
+}
