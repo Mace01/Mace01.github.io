@@ -1,20 +1,24 @@
 
-.title{
-	color: white
+body{
+	background: url(coding.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover 
 }
 h1{
-	color: black;
+	color: white;
 }
 p{
-	color:purple;
 
-font: normal  normal  14px/1.4 Arial;
-	color:black;
+font: normal  normal  18px/1.7 times new roman;
+	color:white;
 	cursor: pointer; 
 	font-family:Georgia
 	font weight:bold; 
 	font-style: initial;
 
+
 }
 #div1{
-	background: rgba(10,20,225,0.4);
+	background: rgba(225,0,0,0.5);
